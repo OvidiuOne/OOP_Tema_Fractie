@@ -39,4 +39,5 @@ print(f4)  # output: -1/4
 f5 = f1.inverse()
 print(f5)  # output: 2/1
 
+
 ######
